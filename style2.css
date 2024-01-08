@@ -1,0 +1,8 @@
+body {
+    display: flex;
+    align-items: center; 
+    justify-content:center;
+    background-image: url(372797.jpg);
+    background-size: cover;
+
+}
